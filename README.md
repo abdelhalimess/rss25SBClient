@@ -42,6 +42,8 @@ java -jar target/Rss25UploaderApp-jar-with-dependencies.jar
 * Sélectionnez un fichier converti (ou conforme au format rss25)
 * Il sera envoyé via HTTP POST au backend Spring (https://rss25sb-esselami.cleverapps.io/rss25/insert)
 
+P.S : Remplacez le lien. 
+
 
 
 ## `RssConverterSwingApp`
