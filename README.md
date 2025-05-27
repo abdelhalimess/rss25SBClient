@@ -8,11 +8,10 @@ Ce projet permet de :
 
 
 
-- Ouvrez un terminal 
-
 
 ## 🚀 Lancer les applications
 
+- Ouvrez un terminal 
 
 
 ### `Rss25ConverterApp`
