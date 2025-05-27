@@ -20,7 +20,7 @@ Application en ligne de commande qui **convertit un flux RSS classique vers rss2
 
 Éxecutez la commande :
 
-java -jar target/Rss25ConverterApp-jar-with-dependencies.jar
+java -jar Rss25ConverterApp-jar-with-dependencies.jar
 
 
 * Tapez un des choix des sources proposées (ex: lemonde)
@@ -35,7 +35,7 @@ Application Swing qui **envoie un fichier rss25SB** au serveur.
 
 Éxecutez la commande :
 
-java -jar target/Rss25UploaderApp-jar-with-dependencies.jar
+java -jar Rss25UploaderApp-jar-with-dependencies.jar
 
 
 * Sélectionnez un fichier converti (ou conforme au format rss25)
@@ -51,7 +51,7 @@ Application Swing avec une interface graphique conviviale **convertit un flux RS
 
 Éxecutez la commande :
 
-java -jar target/Rss25SwingApp-jar-with-dependencies.jar
+java -jar Rss25SwingApp-jar-with-dependencies.jar
 
 
 Fonctionnalités :
